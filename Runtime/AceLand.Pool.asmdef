@@ -1,0 +1,16 @@
+{
+    "name": "AceLand.Pool",
+    "rootNamespace": "AceLand.Pool",
+    "references": [
+        "GUID:0b6e3ff925df76b408774ed4b623807b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
