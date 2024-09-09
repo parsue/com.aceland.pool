@@ -51,7 +51,7 @@ namespace AceLand.Pool
             };
         }
 
-        protected override void BeforeDispose()
+        protected override void DisposeManagedResources()
         {
             ReleaseAll();
             Clear();
