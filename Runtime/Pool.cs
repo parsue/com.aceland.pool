@@ -9,6 +9,8 @@ namespace AceLand.Pool
     public class Pool<T> : DisposableObject 
         where T : MonoBehaviour, IPoolItem
     {
+        ~Pool() => Dispose(false);
+        
         private readonly PoolSettings<T> _settings;
         private readonly IObjectPool<T> _itemPool;
         private readonly List<T> _outItems = new();
