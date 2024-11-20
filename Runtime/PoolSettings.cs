@@ -4,7 +4,7 @@ using UnityEngine;
 namespace AceLand.Pool
 {
     [Serializable]
-    public struct PoolSettings<T> where T : IPoolItem
+    public struct PoolSettings<T> where T : MonoBehaviour, IPoolItem
     {
         [Header("Pool")]
         [SerializeField] private T ownedItemPrefab;
