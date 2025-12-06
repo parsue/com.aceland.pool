@@ -1,6 +1,6 @@
 {
   "name": "com.aceland.pool",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "AceLand Pool",
   "description": "AceLand Pool is Unity Pool helper package.\n\nPlease visit our [Git Book](https://aceland-workshop.gitbook.io/aceland-unity-packages).",
   "unity": "2022.3",
@@ -10,19 +10,21 @@
   },
   "author": {
     "name": "Parsue - AceLand Workshop",
-    "email": "parsue@gmail.com",
-    "url": "http://www.parsue.io/"
+    "url": "http://www.parsue.io/",
+    "email": "parsue@gmail.com"
   },
   "keywords": [
     "aceland",
     "pool"
   ],
   "dependencies": {
-    "com.aceland.library": "1.0.4"
+    "com.aceland.library": "2.0.11"
   },
   "publishConfig": {
     "registry": "https://package.openupm.com"
   },
-  "documentationUrl": "https://aceland-workshop.gitbook.io/aceland-unity-packages",
-  "type": "utility"
+  "documentationUrl": "https://docs.parsue.io/aceland-unity-packages",
+  "type": "utility",
+  "licensesUrl": "https://docs.parsue.io/aceland-unity-packages/getting-started/license",
+  "changelogUrl": "https://docs.parsue.io/aceland-unity-packages/packages/pool/change-log"
 }

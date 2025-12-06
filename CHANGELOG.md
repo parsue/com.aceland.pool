@@ -2,9 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
-
 ---
+
+## [1.0.4] - 2025-12-06
+### Modified
+- [package.json] add doc links
 
 ## [1.0.3] - 2024-11-24
 
