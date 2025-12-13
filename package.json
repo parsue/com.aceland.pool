@@ -1,6 +1,6 @@
 {
   "name": "com.aceland.pool",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "AceLand Pool",
   "description": "AceLand Pool is Unity Pool helper package.\n\nPlease visit our [Git Book](https://aceland-workshop.gitbook.io/aceland-unity-packages).",
   "unity": "2022.3",
@@ -18,7 +18,7 @@
     "pool"
   ],
   "dependencies": {
-    "com.aceland.library": "2.1.0"
+    "com.aceland.library": "2.1.1"
   },
   "publishConfig": {
     "registry": "https://package.openupm.com"
