@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.1.0] - 2025-12-13
+### Removed
+- all meta files
+
 ## [1.0.4] - 2025-12-06
 ### Modified
 - [package.json] add doc links
